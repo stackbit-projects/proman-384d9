@@ -5,7 +5,7 @@ sections:
     title: Do more with less work!
     subtitle: Effortless cloud collaboration tool
     actions:
-      - label: Try for free
+      - label: Sign up for free
         url: /pricing
         style: primary
     image: images/hero.svg
