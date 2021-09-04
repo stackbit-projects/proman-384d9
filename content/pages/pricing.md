@@ -8,9 +8,9 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+## Fair pricing
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We've made our pricing simple, **no hidden fees and no conditions**, we price per features with limited number of users for each pricing model.
 
-- Lorem ipsum
-- dolor sit amet
+*   Pricing by features
+*   Pricing by resources.
