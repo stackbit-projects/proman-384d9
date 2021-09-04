@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Do more with less work!
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Effortless cloud collaboration tool
     actions:
       - label: Try for free
         url: /pricing
